@@ -7,7 +7,7 @@ git push origin master
 
 =====================================
 git add .
-git commit -m "Cambio de titulo de la pestaña"
+git commit -m "Cambio de letra"
 git push origin master
 
 git branch
