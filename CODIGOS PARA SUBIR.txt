@@ -3,3 +3,17 @@ git add .
 git commit -m "prueba 2"
 
 git push origin master
+
+
+=====================================
+git add .
+git commit -m "Cambio de titulo de la pestaña"
+git push origin master
+
+git branch
+git branch gh-pages
+git checkout gh-pages 
+
+git push origin gh-pages
+
+git push origin gh-pages --force (para forzar si no quiere subir)
