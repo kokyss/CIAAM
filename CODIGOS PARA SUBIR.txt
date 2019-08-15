@@ -7,7 +7,7 @@ git push origin master
 
 =====================================
 git add .
-git commit -m "Cambio de letra"
+git commit -m "edicion de imagenes"
 git push origin master
 
 git branch
