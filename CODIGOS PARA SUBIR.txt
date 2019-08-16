@@ -7,7 +7,7 @@ git push origin master
 
 =====================================
 git add .
-git commit -m "edicion de imagenes"
+git commit -m "edicion de imagenes 2"
 git push origin master
 
 git branch
